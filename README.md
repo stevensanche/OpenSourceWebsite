@@ -1,34 +1,3 @@
-# CollectionBuilder-Sheets
+My collection focuses on different visual representations of Saturn across the 19th and 20th century, drawing from a variety of different photographs, illustrations, and scientific images from a range of different public collections. This theme is interesting because Saturn is one of, if not, the most recognizable planet in our solar system because of its rings, but it's also interesting how people have depicted it over time. Comparing and contrasting older images of Saturn to modern day images can also show us changes in detail, scientific understanding, and the ways people used images to teach space. This makes it important because we aren't just looking at images of a planet, but also records of how people understood the universe. This collection would be important and interesting to students, teachers, astronomers, and anyone that are wanting to look into the history of autonomy and scientific illustration. My intended audience is people who are wanting to research how Saturn has been depicted throughout the years, and represented over time. With that, they could also see how these images have shaped public knowledge about astronomy.  My audience could use my collection to compare not only different images of Saturn throughout our timeline, but also the purposes behind those images. For example, we could look at how lantern slides and older illustrations were used for education, and how newer photographs are used for scientific research. The contents of my collection include images related to Saturn, which vary from historical illustrations, lantern slides, photographs, to modern day telescope images. These contents came from several galleries, libraries, archives, and museums. Some of my sources include NASA, the Digital Public Library of America, and many more!
 
-CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV (such as a published Google Sheet!). 
-This enables live collaboration to prototype collections with minimal set up.
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server (*or built automatically and hosted for free on GitHub Pages!*).
-
-Visit the [CB-Sheets demo site](https://collectionbuilder.github.io/collectionbuilder-sheets/) to see it in action and even test your own metadata!
-
-To learn more check [docs/sheets-metadata.md](docs/sheets-metadata.md) or visit the [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) for step-by-step details for getting started and building collections.
-
-Note that CB-Sheets is based on and mostly compatible with [CollectionBuilder-GH](https://github.com/CollectionBuilder/collectionbuilder-gh), but handles the metadata parsing in a fundamentally different way. 
-
-----------
-
-## CollectionBuilder 
-
-<https://collectionbuilder.github.io/>
-
-CollectionBuilder is a project of University of Idaho Library's [Digital Initiatives](https://www.lib.uidaho.edu/digital/) and the [Center for Digital Inquiry and Learning](https://cdil.lib.uidaho.edu) (CDIL) following the [Lib-Static](https://lib-static.github.io/) methodology. 
-Powered by the open source static site generator [Jekyll](https://jekyllrb.com/) and a modern static web stack, it puts collection metadata to work building beautiful sites.
-
-The basic theme is created using [Bootstrap](https://getbootstrap.com/).
-Metadata visualizations are built using open source libraries such as [DataTables](https://datatables.net/), [Leafletjs](http://leafletjs.com/), [Spotlight gallery](https://github.com/nextapps-de/spotlight), [lazysizes](https://github.com/aFarkas/lazysizes), and [Lunr.js](https://lunrjs.com/).
-Object metadata is exposed using [Schema.org](http://schema.org) and [Open Graph protocol](http://ogp.me/) standards.
-
-Questions can be directed to **collectionbuilder.team@gmail.com**
-
-## License
-
-CollectionBuilder documentation and general web content is licensed [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). 
-This license does *NOT* include any objects or images used in digital collections, which may have individually applied licenses described by a "rights" field.
-CollectionBuilder code is licensed [MIT](https://github.com/CollectionBuilder/collectionbuilder-gh/blob/main/LICENSE). 
-This license does not include external dependencies included in the `assets/lib` directory, which are covered by their individual licenses.
+https://stevensanche.github.io/OpenSourceWebsite/
