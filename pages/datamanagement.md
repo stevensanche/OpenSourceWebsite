@@ -43,7 +43,7 @@ For backup and recovery, I have all of the data stored on my personal computer a
 
  
 
-Section 4: Access, Reuse & Rights
+## Section 4: Access, Reuse & Rights
 
 *Observations of Saturn Through Time* is publicly available for anyone to access through my live CollectionBuilder website hosted with GitHub Pages. Users and visitors can view the collection, browse individual items, and follow source links back to the original institutions. The collection is meant for educational and research purposes, especially for students, researchers, educators, and anyone who is interested in astronomy and the history of how Saturn has been represented over time. 
 
