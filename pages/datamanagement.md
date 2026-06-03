@@ -14,7 +14,6 @@ I built this project using Google Sheets, GitHub, and CollectionBuilder. I used 
 ## Section 2: Data Inventory & Provenance:
 
 | Source Institution | \# Objects | How accessed | Rights |
-| :---- | :---- | :---- | :---- |
 | Auckland Museum | 2 | Direct Download via online catalog (no account required) | No Known Copyright Restrictions   |
 | The Huntington | 1 | Direct Download via online catalog (no account required) | Public Domain |
 | NASA | 12 | Direct Download via online catalog (no account required) | Public Domain |
@@ -25,7 +24,6 @@ I built this project using Google Sheets, GitHub, and CollectionBuilder. I used 
  
 
 | File Type | Description | Number | Approximate Volume |
-| :---- | :---- | :---- | :---- |
 | JPG | Digitized object images | 25 | 29MB |
 | PNG | Digitized object images | 0 | N/A |
 | CSV | CollectionBuilder metadata spreadsheet | 1 | \<1MB |
@@ -60,7 +58,6 @@ There are not major ethical concerns in this collection compared to projects inv
 ## Appendix – Data Dictionary
 
 | Field Name | Type | Description | Example Value |
-| :---- | :---- | :---- | :---- |
 | objectid | Text | A unique identifier for each item. | Image20 |
 | source | URL | The link to the original location where the image was extracted from or found. | https://archive.org/details/dr\_11-saturn-12131019 |
 | description | Text | A brief description of what the image shows. These descriptions are based on what information we are given from the original source to describing what is going on in the image. | The last photo taken of Saturn by the Cassini Spacecraft. This photo captures a full view of Saturn and its rings from a top angled view. |
